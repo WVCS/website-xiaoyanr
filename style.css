@@ -1,3 +1,32 @@
-body {
+body{
+  background-color: #fffffc;
+}
+h1{
+  color: #CDDAFD;
+  font-size: 50px;
+}
+h2{
+  font-size: 40px;
+  color: #DFE7FD;
+}
+h3{
+  color: #FAD2E1;
+  font-size: 35px;
+}
+img{
+  width: 900px;
+  height:600px;
+}
+ul{
+  list-style-type: none;
+  position: fixed;
+}
 
+li a {
+  color: #FAD2E1;
+  font-size: 20px;
+  text-decoration: none;
+}
+li a:hover{
+  color: #CDDAFD;
 }
