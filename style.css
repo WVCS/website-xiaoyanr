@@ -3,19 +3,24 @@ body{
 }
 h1{
   color: #CDDAFD;
-  font-size: 50px;
+  font-size: 25px;
+  margin-bottom: 5px;
 }
 h2{
-  font-size: 40px;
+  font-size: 50px;
   color: #DFE7FD;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 h3{
   color: #FAD2E1;
-  font-size: 35px;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 img{
   width: 900px;
-  height:600px;
+  height: 620px;
 }
 ul{
   list-style-type: none;
